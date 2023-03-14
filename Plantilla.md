@@ -1,11 +1,20 @@
 
-## Descripción
+## Descripción:
 
-## Solución
-```bash()
+**Hints:**
+1.
+
+## Solución:
+
+```bash
 
 ```
 
-## Notas adicionales
+### Flag: picoCTF{xxxxxx...}
 
-## Referencias 
+## Notas adicionales:
+| Comando | Descripción |
+| --- | --- |
+
+
+## Referencias:
