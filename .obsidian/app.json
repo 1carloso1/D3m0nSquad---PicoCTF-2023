@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "es-419",
     "es-MX"
-  ]
+  ],
+  "useMarkdownLinks": true
 }
