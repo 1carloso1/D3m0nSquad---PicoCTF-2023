@@ -4,5 +4,7 @@
     "es-419",
     "es-MX"
   ],
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }
